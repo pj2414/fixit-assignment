@@ -1,0 +1,41 @@
+# Docker Compose for Fixit with Ollama
+
+version: '3.8'
+
+services:
+  # Ollama LLM Service
+  ollama:
+    image: ollama/ollama:latest
+    container_name: fixit-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    # Pull the model on startup
+    entrypoint: ["/bin/bash", "-c"]
+    command:
+      - |
+        /bin/ollama serve &
+        sleep 5
+        ollama pull llama3.2:3b
+        wait
+    restart: unless-stopped
+
+  # Fixit API Service
+  fixit-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fixit-api
+    ports:
+      - "8000:8000"
+    environment:
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - OLLAMA_MODEL=llama3.2:3b
+      - DEBUG=false
+    depends_on:
+      - ollama
+    restart: unless-stopped
+
+volumes:
+  ollama_data:
