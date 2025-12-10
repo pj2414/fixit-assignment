@@ -1,0 +1,62 @@
+{
+    "description": "Ground truth labels for 10 calls, manually classified as good/bad with rationale",
+    "labeled_by": "Human Expert",
+    "labeling_date": "2024-12-10",
+    "threshold_used": 0.6,
+    "calls": [
+        {
+            "call_id": "CALL001",
+            "ground_truth": "good",
+            "rationale": "Excellent rapport building, personalized approach using referral connection, captured all requirements, scheduled visit with builder rep. Professional closure."
+        },
+        {
+            "call_id": "CALL002",
+            "ground_truth": "bad",
+            "rationale": "No proper greeting, dismissive attitude, didn't explore alternatives for budget, abrupt ending. No effort to help or qualify."
+        },
+        {
+            "call_id": "CALL003",
+            "ground_truth": "good",
+            "rationale": "Corporate pitch done well, addressed technical questions professionally, offered solutions for lock-in and parking, scheduled visit with specifics."
+        },
+        {
+            "call_id": "CALL004",
+            "ground_truth": "good",
+            "rationale": "Great handling of first-time buyer, offered guidance, connected banking partners, gave preparation checklist. Empathetic and thorough."
+        },
+        {
+            "call_id": "CALL007",
+            "ground_truth": "bad",
+            "rationale": "Called wrong/spam number, didn't listen to customer saying they didn't enquire, persisted despite customer objection. Potentially harassment."
+        },
+        {
+            "call_id": "CALL009",
+            "ground_truth": "bad",
+            "rationale": "Customer had budget reduction due to financial issues. Agent was dismissive, suggested to 'wait 6 months', no empathy or alternatives offered."
+        },
+        {
+            "call_id": "CALL013",
+            "ground_truth": "good",
+            "rationale": "Honest about budget constraints, suggested realistic alternatives (Navi Mumbai), offered to send options. Helpful even when deal wasn't immediate."
+        },
+        {
+            "call_id": "CALL016",
+            "ground_truth": "good",
+            "rationale": "Senior-friendly discussion, addressed all elderly-specific concerns (medical, accessibility), offered to arrange accessible transport. Very thoughtful."
+        },
+        {
+            "call_id": "CALL017",
+            "ground_truth": "bad",
+            "rationale": "Customer comparing options, agent was defensive about amenities, pushed with 'prices will increase' fear tactic. Didn't address objections constructively."
+        },
+        {
+            "call_id": "CALL020",
+            "ground_truth": "good",
+            "rationale": "Traditional buyer handled respectfully, Vastu certificate offered, welcomed engineer inspection, negotiated respectfully, arranged Puja muhurat. Cultural sensitivity."
+        }
+    ],
+    "distribution": {
+        "good": 6,
+        "bad": 4
+    }
+}

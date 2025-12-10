@@ -1,0 +1,112 @@
+{
+    "description": "Ground truth labels for 20 leads, manually classified as hot/warm/cold with rationale",
+    "labeled_by": "Human Expert",
+    "labeling_date": "2024-12-10",
+    "leads": [
+        {
+            "lead_id": "LEAD004",
+            "ground_truth_bucket": "hot",
+            "rationale": "Referral from existing customer, looking for immediate possession, 2.5Cr budget, very recent activity (8 mins). Clear buying intent."
+        },
+        {
+            "lead_id": "LEAD011",
+            "ground_truth_bucket": "hot",
+            "rationale": "Corporate client, 5Cr commercial deal, marked as PRIORITY, 8 past interactions, wants entire floor. Enterprise deal with high value."
+        },
+        {
+            "lead_id": "LEAD021",
+            "ground_truth_bucket": "hot",
+            "rationale": "Ready to book with booking amount, willing to negotiate. 45 mins recent, 4 interactions, high budget 95L. Clear closing signal."
+        },
+        {
+            "lead_id": "LEAD049",
+            "ground_truth_bucket": "hot",
+            "rationale": "VIP foreign diplomat, embassy payment, 8 interactions, 5 mins ago activity. High-value, politically important client."
+        },
+        {
+            "lead_id": "LEAD081",
+            "ground_truth_bucket": "hot",
+            "rationale": "Industrialist family, 5.5Cr penthouse, 11 interactions, ASAP mentioned, 3 mins activity. Ultra high net worth, ready buyer."
+        },
+        {
+            "lead_id": "LEAD145",
+            "ground_truth_bucket": "hot",
+            "rationale": "Embassy-style office, 5.2Cr, TOP PRIORITY, 12 interactions, 4 mins ago. Security-critical, enterprise deal."
+        },
+        {
+            "lead_id": "LEAD061",
+            "ground_truth_bucket": "hot",
+            "rationale": "Booking amount ready, needs management approval (formality), 5 interactions, 35 mins ago. Deal almost closed."
+        },
+        {
+            "lead_id": "LEAD008",
+            "ground_truth_bucket": "warm",
+            "rationale": "IT professional relocating, needs by March urgently, 90L budget. Timeline pressure but still comparing options."
+        },
+        {
+            "lead_id": "LEAD025",
+            "ground_truth_bucket": "warm",
+            "rationale": "Doctor couple, weekend visit confirmed, 7 interactions, but 60 mins since activity. Good prospect but not immediate."
+        },
+        {
+            "lead_id": "LEAD014",
+            "ground_truth_bucket": "warm",
+            "rationale": "NRI from US, video call scheduled, good budget 1.1Cr. Interested but cross-border complications possible."
+        },
+        {
+            "lead_id": "LEAD045",
+            "ground_truth_bucket": "warm",
+            "rationale": "Large family, 1.1Cr budget, school proximity important, 5 interactions. Serious but family decision process is slower."
+        },
+        {
+            "lead_id": "LEAD093",
+            "ground_truth_bucket": "hot",
+            "rationale": "Paperwork pending, deal almost closed, loan approved. Just needs agreement signing."
+        },
+        {
+            "lead_id": "LEAD037",
+            "ground_truth_bucket": "warm",
+            "rationale": "Wife liked flat, husband to visit. 4 interactions, 45 mins ago. Needs both decision makers aligned."
+        },
+        {
+            "lead_id": "LEAD003",
+            "ground_truth_bucket": "cold",
+            "rationale": "Just browsing, not sure about timeline, maybe next year. Only 1 interaction, 3 hours ago. No urgency."
+        },
+        {
+            "lead_id": "LEAD007",
+            "ground_truth_bucket": "cold",
+            "rationale": "Social media lead, no response to call, 12 hours since activity, 0 interactions. Unresponsive."
+        },
+        {
+            "lead_id": "LEAD026",
+            "ground_truth_bucket": "cold",
+            "rationale": "College student with 25L budget in Mumbai - completely unrealistic. Not serious enquiry."
+        },
+        {
+            "lead_id": "LEAD058",
+            "ground_truth_bucket": "cold",
+            "rationale": "Marked as fake enquiry, same as spam caller. Invalid lead."
+        },
+        {
+            "lead_id": "LEAD012",
+            "ground_truth_bucket": "cold",
+            "rationale": "Wrong number provided, 3 days since activity, 0 interactions. Cannot contact."
+        },
+        {
+            "lead_id": "LEAD042",
+            "ground_truth_bucket": "cold",
+            "rationale": "Window shopping, will call back when ready, 16 hours since activity. No immediate intent."
+        },
+        {
+            "lead_id": "LEAD146",
+            "ground_truth_bucket": "cold",
+            "rationale": "Student accommodation enquiry, not genuine lead, social media source. Invalid."
+        }
+    ],
+    "distribution": {
+        "hot": 8,
+        "warm": 5,
+        "cold": 7
+    }
+}
