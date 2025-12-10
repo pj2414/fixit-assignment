@@ -2,12 +2,12 @@
 
 import logging
 from contextlib import asynccontextmanager
-import uvicorn
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from src.config import get_settings
-from src.api.routes import lead_priority
+from src.api.routes import lead_priority, call_eval
 
 
 logging.basicConfig(
@@ -47,9 +47,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
 app.include_router(lead_priority.router)
-
+app.include_router(call_eval.router)
 
 
 @app.get("/")
@@ -61,7 +60,7 @@ async def root():
         "docs": "/docs",
         "endpoints": {
             "lead_priority": "/api/v1/lead-priority",
-       
+            "call_eval": "/api/v1/call-eval"
         }
     }
 
@@ -77,7 +76,7 @@ async def health_check():
 
 
 if __name__ == "__main__":
-    
+    import uvicorn
     uvicorn.run(
         "src.main:app",
         host="0.0.0.0",
