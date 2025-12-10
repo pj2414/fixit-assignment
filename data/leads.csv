@@ -1,0 +1,161 @@
+lead_id,source,budget,city,property_type,last_activity_minutes_ago,past_interactions,notes,status
+LEAD001,portal,8500000,Delhi,3BHK,15,4,"Very interested, wants to visit this weekend. Wife loves the location.",contacted
+LEAD002,walk-in,12000000,Mumbai,villa,45,6,"Came with family, liked the premium villa. Budget flexible upto 1.5cr",follow_up
+LEAD003,website,3500000,Bangalore,2BHK,180,1,"Just browsing, not sure about timeline. Maybe next year",new
+LEAD004,referral,25000000,Gurgaon,penthouse,8,3,"Referred by Mr. Sharma (existing customer). Looking for immediate possession",contacted
+LEAD005,magicbricks,5500000,Noida,2BHK,2880,2,"Called twice, didn't pick up. Left voicemail",follow_up
+LEAD006,99acres,7500000,Pune,3BHK,30,5,"Wants east facing flat. Very particular about vastu compliance",contacted
+LEAD007,social_media,4000000,Chennai,2BHK,720,0,"Clicked on Facebook ad. No response to call yet",new
+LEAD008,housing.com,9000000,Hyderabad,3BHK,60,3,"IT professional, relocating from Pune. Needs by March end urgently!!",contacted
+LEAD009,walk-in,15000000,Mumbai,villa,120,4,"Builder background, asking too many technical questions. Genuine buyer",follow_up
+LEAD010,portal,6000000,Delhi,2BHK,1440,1,"Student's father. Looking for investment property near university",new
+LEAD011,referral,50000000,Gurgaon,commercial,5,8,"Big corporate client. Wants entire floor for office. PRIORITY!!",contacted
+LEAD012,website,2800000,Bangalore,studio,4320,0,"Filled form but wrong number provided",new
+LEAD013,99acres,8000000,Noida,3BHK,90,2,"Comparing with 3 other projects. Price sensitive but interested",contacted
+LEAD014,magicbricks,11000000,Pune,villa,240,4,"NRI client from US. Video call scheduled for tomorrow",follow_up
+LEAD015,walk-in,7000000,Chennai,3BHK,360,3,"Retired govt employee. Cash buyer, wants registry asap",contacted
+LEAD016,portal,4500000,Hyderabad,2BHK,10080,1,"Old lead. Callback request after 1 week",follow_up
+LEAD017,social_media,3000000,Delhi,1BHK,180,0,"Young professional. First time buyer, needs guidance",new
+LEAD018,referral,20000000,Mumbai,penthouse,25,5,"Friend of director. VIP treatment required. Sea view mandatory",contacted
+LEAD019,housing.com,5000000,Bangalore,2BHK,480,2,"Looking for rental income property. Wants high ROI areas",contacted
+LEAD020,website,6500000,Gurgaon,3BHK,720,1,"IT couple, WFH setup needed. Prefer gated community",new
+LEAD021,99acres,9500000,Noida,3BHK,45,4,"Ready to book if 5% discount given. Genuine buyer",contacted
+LEAD022,portal,4000000,Pune,2BHK,1200,2,"Budget constraint but likes the project. Exploring loan options",follow_up
+LEAD023,walk-in,30000000,Chennai,commercial,15,6,"Entrepreneur, wants showroom space. Immediate requirement",contacted
+LEAD024,magicbricks,7200000,Hyderabad,3BHK,300,3,"Joint family, needs 3BHK with servant room",contacted
+LEAD025,referral,18000000,Delhi,villa,60,7,"Doctor couple. Looking for farmhouse type property. Weekend visit confirmed",follow_up
+LEAD026,social_media,2500000,Mumbai,1BHK,2160,0,"College student enquiry. Probably not serious",new
+LEAD027,housing.com,8800000,Bangalore,3BHK,120,4,"Wants possession in 6 months. Checking RERA compliance",contacted
+LEAD028,website,5200000,Gurgaon,2BHK,840,1,"Single woman buyer. Safety and location priority",new
+LEAD029,99acres,10500000,Noida,villa,30,5,"Upgrade from 3BHK. Current flat in same society",contacted
+LEAD030,portal,6800000,Pune,3BHK,480,2,"Marathi speaking only. Send Marathi brochure",follow_up
+LEAD031,walk-in,14000000,Chennai,villa,90,4,"Businessman, wants Puja room and garden. Cash deal preferred",contacted
+LEAD032,magicbricks,4800000,Hyderabad,2BHK,1680,1,"Govt employee, looking for loan approval first",new
+LEAD033,referral,45000000,Delhi,penthouse,10,9,"Celebrity client - confidential. Manager handling communication",contacted
+LEAD034,social_media,3200000,Mumbai,2BHK,600,2,"Interested but asking about resale value projections",contacted
+LEAD035,housing.com,7800000,Bangalore,3BHK,200,3,"Software engineer, wants smart home features",follow_up
+LEAD036,website,9200000,Gurgaon,3BHK,1080,1,"Looking near Metro station. Commute time important",new
+LEAD037,99acres,5800000,Noida,2BHK,45,4,"Wife liked the flat. Husband to visit next",contacted
+LEAD038,portal,12500000,Pune,villa,300,5,"Second home buyer. Investment purpose only",follow_up
+LEAD039,walk-in,8200000,Chennai,3BHK,60,3,"Transferred from Kolkata. Office near T Nagar preferred",contacted
+LEAD040,magicbricks,4200000,Hyderabad,2BHK,2520,2,"Budget revised downward. Was looking at 60L earlier",follow_up
+LEAD041,referral,22000000,Delhi,commercial,20,6,"Chain of restaurants owner. Wants food court space URGENT",contacted
+LEAD042,social_media,2900000,Mumbai,1BHK,960,0,"Just window shopping. Will call back when ready",new
+LEAD043,housing.com,6200000,Bangalore,2BHK,150,3,"Elderly parents. Ground floor only, no stairs",contacted
+LEAD044,website,7500000,Gurgaon,3BHK,720,2,"Army officer, looking for cantonment area alternatives",new
+LEAD045,99acres,11000000,Noida,villa,40,5,"Large family with 3 kids. School proximity important",contacted
+LEAD046,portal,5500000,Pune,2BHK,360,2,"Interior designer by profession. Will customize heavily",follow_up
+LEAD047,walk-in,16000000,Chennai,commercial,80,4,"Diagnostic center chain. Medical facility requirements",contacted
+LEAD048,magicbricks,8500000,Hyderabad,3BHK,1320,3,"DINK couple, wants modular kitchen and gym",follow_up
+LEAD049,referral,35000000,Delhi,penthouse,5,8,"Foreign diplomat. Embassy will handle payment. VIP",contacted
+LEAD050,social_media,3800000,Mumbai,2BHK,420,1,"Recently married. Parents helping with down payment",new
+LEAD051,housing.com,9800000,Bangalore,3BHK,100,4,"Startup founder. Home office space critical",contacted
+LEAD052,website,6000000,Gurgaon,2BHK,1560,1,"Looking for ready possession. Tired of delays",new
+LEAD053,99acres,7200000,Noida,3BHK,60,3,"Lawyer, wants study room. Documentation expertise",contacted
+LEAD054,portal,4600000,Pune,2BHK,480,2,"Salaried, stable income. Pre-approved loan of 40L",follow_up
+LEAD055,walk-in,28000000,Chennai,villa,25,7,"Shipping magnate. Want sea-facing property",contacted
+LEAD056,magicbricks,5900000,Hyderabad,2BHK,840,2,"Young couple, both IT. EMI affordability checked",contacted
+LEAD057,referral,19000000,Delhi,villa,45,6,"Politician's relative. Discreet handling needed",follow_up
+LEAD058,social_media,3400000,Mumbai,2BHK,1800,0,"Fake enquiry - same number as spam caller",new
+LEAD059,housing.com,8000000,Bangalore,3BHK,180,3,"Prefers Whitefield or Electronic City belt",contacted
+LEAD060,website,5400000,Gurgaon,2BHK,600,1,"Single male, IT professional. Bachelor friendly society",new
+LEAD061,99acres,10000000,Noida,3BHK,35,5,"Booking amount ready. Just needs management approval",contacted
+LEAD062,portal,7800000,Pune,3BHK,300,3,"Wants to shift before Diwali. Timeline critical",contacted
+LEAD063,walk-in,13000000,Chennai,villa,120,4,"Doctor, needs clinic space on ground floor",follow_up
+LEAD064,magicbricks,4400000,Hyderabad,2BHK,2040,1,"Called once, said will think and revert",new
+LEAD065,referral,40000000,Delhi,commercial,8,10,"Mall space for retail chain. Big deal potential!!!",contacted
+LEAD066,social_media,2700000,Mumbai,1BHK,720,1,"Budget too low for Mumbai market. Suggested Navi Mumbai",new
+LEAD067,housing.com,6800000,Bangalore,3BHK,240,3,"Pet owner - needs pet friendly society",contacted
+LEAD068,website,9500000,Gurgaon,3BHK,960,2,"American returned. Wants international standards",follow_up
+LEAD069,99acres,5100000,Noida,2BHK,50,4,"Freelancer, flexible on location. Good negotiator",contacted
+LEAD070,portal,8800000,Pune,3BHK,180,3,"Marwari family, joint living. Large hall needed",contacted
+LEAD071,walk-in,21000000,Chennai,penthouse,40,6,"Cricketer, privacy paramount. Top floor only",contacted
+LEAD072,magicbricks,6500000,Hyderabad,3BHK,540,2,"Middle-aged couple, empty nesters. Downsizing from villa",follow_up
+LEAD073,referral,15000000,Delhi,villa,70,5,"Advocate, wants plot in approved colony",contacted
+LEAD074,social_media,4100000,Mumbai,2BHK,1440,1,"Interested but comparing with resale options",new
+LEAD075,housing.com,7400000,Bangalore,3BHK,110,4,"Wants gated community with club house",contacted
+LEAD076,website,5700000,Gurgaon,2BHK,780,1,"Parking for 2 cars essential",new
+LEAD077,99acres,12000000,Noida,villa,30,6,"Upgrade buyer. Want construction linked plan",contacted
+LEAD078,portal,4900000,Pune,2BHK,420,2,"First time buyer. Needs handholding on process",follow_up
+LEAD079,walk-in,25000000,Chennai,commercial,55,5,"Jewellery showroom. Vault and security requirements",contacted
+LEAD080,magicbricks,7100000,Hyderabad,3BHK,1020,3,"Teacher couple. Summer vacation visit planned",follow_up
+LEAD081,referral,55000000,Delhi,penthouse,3,11,"Industrialist family. 4BHK penthouse with terrace wanted ASAP!!",contacted
+LEAD082,social_media,3100000,Mumbai,2BHK,900,0,"Enquiry from student. Probably on behalf of parents",new
+LEAD083,housing.com,8400000,Bangalore,3BHK,160,4,"Wants Sarjapur Road area. IT hub proximity",contacted
+LEAD084,website,6300000,Gurgaon,3BHK,660,2,"Sohna Road preferred. Budget stretching possible",new
+LEAD085,99acres,9800000,Noida,3BHK,55,5,"Sector 150 only. Kids school nearby",contacted
+LEAD086,portal,5200000,Pune,2BHK,360,2,"Young bachelor. Nightlife area preferred honestly",follow_up
+LEAD087,walk-in,17000000,Chennai,villa,85,4,"Film producer. Guest rooms and party space",contacted
+LEAD088,magicbricks,4700000,Hyderabad,2BHK,1740,2,"Was interested but now looking at Vijayawada",follow_up
+LEAD089,referral,32000000,Delhi,commercial,12,7,"Hotel chain expansion. Prime location needed",contacted
+LEAD090,social_media,2600000,Mumbai,1BHK,1200,0,"Very low budget. Suggested outskirts",new
+LEAD091,housing.com,7000000,Bangalore,3BHK,200,3,"Old parents moving in. Lift essential",contacted
+LEAD092,website,8900000,Gurgaon,3BHK,540,2,"Golf course access preferred",follow_up
+LEAD093,99acres,6100000,Noida,2BHK,40,4,"Deal almost closed. Just paperwork pending",contacted
+LEAD094,portal,11500000,Pune,villa,240,4,"Lavasa or Lonavala second home",follow_up
+LEAD095,walk-in,19500000,Chennai,villa,60,5,"Textile merchant. Traditional south Indian architecture",contacted
+LEAD096,magicbricks,5600000,Hyderabad,2BHK,900,2,"Jubilee Hills or Banjara Hills dream location",contacted
+LEAD097,referral,27000000,Delhi,penthouse,18,8,"Builder's own relative. Special pricing expected",contacted
+LEAD098,social_media,3600000,Mumbai,2BHK,660,1,"Instagram lead. Influencer wants good views for content",new
+LEAD099,housing.com,8200000,Bangalore,3BHK,130,4,"HSR Layout or Koramangala. Tech couple",contacted
+LEAD100,website,5900000,Gurgaon,2BHK,840,1,"MNC employee. Company relocation",new
+LEAD101,99acres,10200000,Noida,villa,25,6,"Expressway facing. Home office setup",contacted
+LEAD102,portal,7600000,Pune,3BHK,300,3,"Kharadi or Viman Nagar IT hub",contacted
+LEAD103,walk-in,14500000,Chennai,commercial,70,4,"Pharmacy chain. Corner shop preferred",follow_up
+LEAD104,magicbricks,4300000,Hyderabad,2BHK,1560,2,"Second property for rental. Yield focused",new
+LEAD105,referral,48000000,Delhi,commercial,7,9,"Tech park investment. Multiple floors possible",contacted
+LEAD106,social_media,2800000,Mumbai,1BHK,1020,0,"Not picking calls. WhatsApp sent",new
+LEAD107,housing.com,6700000,Bangalore,3BHK,170,3,"Marathahalli. Walking distance to office wanted",contacted
+LEAD108,website,9100000,Gurgaon,3BHK,480,2,"DLF phases 1-4 interest",follow_up
+LEAD109,99acres,5300000,Noida,2BHK,50,4,"Investor group. Bulk booking possible!!",contacted
+LEAD110,portal,8600000,Pune,3BHK,210,3,"Hinjewadi techie. Young family",contacted
+LEAD111,walk-in,23000000,Chennai,penthouse,35,6,"Socialite. Entertainment and party hosting",contacted
+LEAD112,magicbricks,6900000,Hyderabad,3BHK,780,3,"Gachibowli preferred. Amazon campus nearby",follow_up
+LEAD113,referral,16500000,Delhi,villa,50,5,"Vasant Kunj or Chattarpur belt",contacted
+LEAD114,social_media,4000000,Mumbai,2BHK,540,1,"Powai or Hiranandani fan. Lake view",new
+LEAD115,housing.com,7800000,Bangalore,3BHK,150,4,"JP Nagar old area charm",contacted
+LEAD116,website,5500000,Gurgaon,2BHK,900,1,"Near Huda City Centre metro",new
+LEAD117,99acres,11800000,Noida,villa,20,7,"Greater Noida West. Township living",contacted
+LEAD118,portal,4500000,Pune,2BHK,450,2,"Shivajinagar or Deccan area. Heritage lover",follow_up
+LEAD119,walk-in,20000000,Chennai,villa,50,5,"ECR beach road. Sea breeze essential",contacted
+LEAD120,magicbricks,7300000,Hyderabad,3BHK,660,3,"Financial District. Walk to office",contacted
+LEAD121,referral,38000000,Delhi,commercial,10,8,"Co-working space chain. Flexible layout needed",contacted
+LEAD122,social_media,3300000,Mumbai,2BHK,1380,1,"Dombivli or Thane budget option",new
+LEAD123,housing.com,8100000,Bangalore,3BHK,140,4,"Indiranagar pub street nearby",contacted
+LEAD124,website,6400000,Gurgaon,3BHK,720,2,"Sector 82-85 new developments",new
+LEAD125,99acres,9600000,Noida,3BHK,35,5,"Sector 76 or 78. Metro connectivity",contacted
+LEAD126,portal,12200000,Pune,villa,180,4,"Baner or Balewadi. Modern architecture",follow_up
+LEAD127,walk-in,18500000,Chennai,commercial,45,5,"Restaurant franchise. Kitchen specifications",contacted
+LEAD128,magicbricks,5100000,Hyderabad,2BHK,1200,2,"Kondapur or Manikonda. Mid-budget",follow_up
+LEAD129,referral,42000000,Delhi,penthouse,6,10,"South Delhi elite. 5000 sqft minimum",contacted
+LEAD130,social_media,2400000,Mumbai,1BHK,1620,0,"Unrealistic expectations for budget. Educated",new
+LEAD131,housing.com,7200000,Bangalore,3BHK,180,3,"Hebbal or Yelahanka. Airport proximity",contacted
+LEAD132,website,8700000,Gurgaon,3BHK,540,2,"South City 1-2 resale also okay",follow_up
+LEAD133,99acres,5800000,Noida,2BHK,45,4,"Sector 62 near corporate hub",contacted
+LEAD134,portal,10800000,Pune,3BHK,270,3,"Wakad or Pimple Saudagar emerging area",contacted
+LEAD135,walk-in,26000000,Chennai,villa,30,7,"Adyar or Besant Nagar premium location",contacted
+LEAD136,magicbricks,6600000,Hyderabad,3BHK,840,2,"Uppal or LB Nagar value buy",follow_up
+LEAD137,referral,14000000,Delhi,villa,65,5,"Dwarka expressway future potential",contacted
+LEAD138,social_media,3900000,Mumbai,2BHK,480,1,"Andheri east connectivity lover",new
+LEAD139,housing.com,8300000,Bangalore,3BHK,120,4,"BTM Layout or Bommanahalli",contacted
+LEAD140,website,5600000,Gurgaon,2BHK,960,1,"Sushant Lok or South Point",new
+LEAD141,99acres,10400000,Noida,villa,28,6,"Wave City or Eldeco township",contacted
+LEAD142,portal,7900000,Pune,3BHK,330,3,"Hadapsar IT park nearby. Young crowd",contacted
+LEAD143,walk-in,22000000,Chennai,penthouse,40,6,"Anna Nagar or Nungambakkam central",contacted
+LEAD144,magicbricks,4600000,Hyderabad,2BHK,1440,2,"Interior budget also needed guidance",new
+LEAD145,referral,52000000,Delhi,commercial,4,12,"Embassy style office. Security critical!! TOP PRIORITY",contacted
+LEAD146,social_media,2500000,Mumbai,1BHK,1080,0,"Student accommodation enquiry. Not genuine lead",new
+LEAD147,housing.com,6900000,Bangalore,3BHK,160,3,"Whitefield near ITPL. Bus route",contacted
+LEAD148,website,9400000,Gurgaon,3BHK,600,2,"Emaar or Tata projects only",follow_up
+LEAD149,99acres,5400000,Noida,2BHK,55,4,"Sector 44 or 45 central location",contacted
+LEAD150,portal,13500000,Pune,villa,150,5,"Koregaon Park lifestyle living",follow_up
+LEAD151,walk-in,17500000,Chennai,commercial,55,4,"Gold showroom. High security vault needed",contacted
+LEAD152,magicbricks,7500000,Hyderabad,3BHK,480,3,"Kukatpally or KPHB metro life",contacted
+LEAD153,referral,30000000,Delhi,penthouse,15,8,"Golf view or green belt facing. Relaxed timeline",contacted
+LEAD154,social_media,4200000,Mumbai,2BHK,360,2,"Chembur or Ghatkopar connectivity",new
+LEAD155,housing.com,8600000,Bangalore,3BHK,100,5,"Electronic City Phase 1. Infosys campus",contacted
+LEAD156,website,6100000,Gurgaon,2BHK,780,1,"MG Road or IFFCO Chowk metro",new
+LEAD157,99acres,11200000,Noida,villa,22,7,"Jaypee Greens golf course. Luxury living",contacted
+LEAD158,portal,5000000,Pune,2BHK,390,2,"Kothrud or Karve Nagar established area",follow_up
+LEAD159,walk-in,24000000,Chennai,villa,35,6,"Ashok Nagar or KK Nagar central Chennai",contacted
+LEAD160,magicbricks,6200000,Hyderabad,3BHK,960,2,"Secunderabad railway accessibility",follow_up

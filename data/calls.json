@@ -1,0 +1,212 @@
+[
+  {
+    "call_id": "CALL001",
+    "lead_id": "LEAD004",
+    "transcript": "Agent: Good morning! Am I speaking with Mr. Agarwal?\nCustomer: Yes, speaking.\nAgent: Sir, this is Rahul from Prestige Properties. Mr. Sharma referred you to us regarding the penthouse at DLF Camellias. He mentioned you're looking for immediate possession?\nCustomer: Yes, that's right. We've been searching for 3 months now. Nothing seems to fit our requirements.\nAgent: I completely understand, sir. Finding the perfect home takes time. Could you tell me what specific requirements you have?\nCustomer: We need at least 4 bedrooms, a large terrace for my wife's garden, and preferably a corner unit for privacy.\nAgent: Perfect, sir. The penthouse I have in mind is exactly 5200 sqft with a 1500 sqft terrace. It's a corner unit on the 22nd floor with 270-degree views. When would you and your family like to visit?\nCustomer: This weekend works. Saturday morning?\nAgent: Absolutely, sir. I'll block 10 AM Saturday. Shall I send the floor plan and virtual tour video on WhatsApp?\nCustomer: Yes, please do. Looking forward to it.\nAgent: Thank you, sir. I'll also arrange for the builder's representative to be present to answer any technical questions. Have a great day!",
+    "duration_seconds": 245,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL002",
+    "lead_id": "LEAD007",
+    "transcript": "Agent: Hello?\nCustomer: Hi, I saw your ad on Facebook about apartments in Chennai.\nAgent: Yes, which project?\nCustomer: The one near the beach.\nAgent: We have many. What's your budget?\nCustomer: I don't know... maybe 40 lakhs?\nAgent: That's too low for beach area. Anything else?\nCustomer: Oh. Then I'll think about it.\nAgent: Okay. Bye.",
+    "duration_seconds": 68,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL003",
+    "lead_id": "LEAD011",
+    "transcript": "Agent: Good afternoon, this is Priya from Corporate Realty Solutions. Am I speaking with the facilities head of TechCorp India?\nCustomer: Yes, I'm Vikram, the COO. I've been expecting your call.\nAgent: Thank you for your time, sir. I understand you're looking for an entire floor for your new office. Our premium tower in Cyber City has a 35,000 sqft floor available with panoramic views.\nCustomer: What's the lock-in period and fit-out timeline?\nAgent: Standard lock-in is 5 years with a 15% escalation every 3 years. For fit-out, we can provide a 3-month rent-free period and our empaneled contractors can complete interior work in 45 days.\nCustomer: That sounds reasonable. What about parking allocation?\nAgent: Sir, the building has a ratio of 1:500, so for 35,000 sqft, you'd get 70 reserved parking spots across B1 and B2 levels.\nCustomer: Good. We also need 24/7 access with biometric security.\nAgent: Already in place, sir. The building also has backup power for 100% load, which I understand is critical for IT operations.\nCustomer: When can we do a site visit with our architect?\nAgent: How about tomorrow at 11 AM? I'll also have the building manager present to discuss any customization requirements.\nCustomer: Perfect. Email me the term sheet before the meeting.\nAgent: Will do, sir. Looking forward to hosting you tomorrow.",
+    "duration_seconds": 312,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL004",
+    "lead_id": "LEAD017",
+    "transcript": "Agent: Hi, is this Sneha?\nCustomer: Yes, who's this?\nAgent: I'm calling from Dream Homes. You filled a form on our website about 1BHK apartments?\nCustomer: Oh yes! I'm looking for my first apartment. It's all so confusing though.\nAgent: I totally understand! First-time buying can feel overwhelming, but that's what we're here for. Let me help you step by step. First, do you have a pre-approved loan?\nCustomer: No, I haven't started that process yet.\nAgent: No problem. I can connect you with our banking partners who offer special rates for first-time buyers. Now, which areas are you considering?\nCustomer: Somewhere near the metro? My office is in Connaught Place.\nAgent: Great choice! We have a project in Dwarka Sector 21, right next to the metro station. 1BHK units starting at 28 lakhs with all modern amenities.\nCustomer: That sounds good! But how does the whole process work?\nAgent: Here's what we'll do - first, we'll schedule a site visit. There, I'll walk you through the floor plans, payment schedules, and legal documentation. We'll also help you understand the loan process. Would Sunday work for you?\nCustomer: Yes, Sunday afternoon please.\nAgent: Perfect, 2 PM it is. I'm sending you a checklist of documents to bring. Feel free to bring your parents or a friend if you'd like a second opinion.\nCustomer: Thank you so much! You've been really helpful.\nAgent: My pleasure, Sneha. This is an exciting journey, and we'll make it smooth for you. See you Sunday!",
+    "duration_seconds": 287,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL005",
+    "lead_id": "LEAD026",
+    "transcript": "Agent: Hello, calling about the 1BHK enquiry.\nCustomer: Yeah, what's the price?\nAgent: Sir, our 1BHK starts at 2.5 crores in Mumbai.\nCustomer: 2.5 crores?! I'm a college student, I thought it would be like 25 lakhs.\nAgent: Sir, this is Mumbai. That budget won't work here.\nCustomer: Even for a small flat?\nAgent: No sir. Maybe try looking in Navi Mumbai or Thane.\nCustomer: Okay forget it then.\nAgent: Sure, bye.",
+    "duration_seconds": 52,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL006",
+    "lead_id": "LEAD021",
+    "transcript": "Agent: Mr. Kapoor, this is Amit following up on your visit to Emerald Heights last week.\nCustomer: Yes Amit, I wanted to discuss the pricing. As I mentioned, if you can give 5% discount, I'm ready to book today.\nAgent: Sir, I spoke with my manager about this. Given that you're a serious buyer and ready for immediate booking, we can offer you 3% discount plus some additional benefits.\nCustomer: 3% is not enough. I was hoping for more.\nAgent: Sir, let me explain what we can add - we'll include modular kitchen worth 4 lakhs, premium flooring upgrade worth 2 lakhs, and we'll waive the PLC for your preferred east-facing unit. That's effectively a 7% value addition.\nCustomer: Hmm, that's interesting. What about parking?\nAgent: I'll include covered parking at no extra cost. That's another 3 lakh value.\nCustomer: Okay, you've made a compelling case. When do I need to pay the booking amount?\nAgent: Sir, to lock in this offer and the specific unit, we'd need the booking amount of 5 lakhs today or tomorrow maximum. Post that, I can't guarantee the unit availability.\nCustomer: Fair enough. I'll transfer 5 lakhs by evening. Send me the bank details and booking form.\nAgent: Absolutely, sir! I'm sending it right now. Welcome to the Emerald Heights family! I'll personally ensure your journey from here is smooth.\nCustomer: Thank you, Amit. You've been very professional.",
+    "duration_seconds": 298,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL007",
+    "lead_id": "LEAD058",
+    "transcript": "Agent: Hello, calling from Premium Properties about your housing inquiry.\nCustomer: What inquiry? I didn't make any inquiry.\nAgent: Sir, we have your number registered for a 2BHK in Andheri.\nCustomer: I don't know what you're talking about. Please remove my number.\nAgent: Sir, just give me one minute to explain our project-\nCustomer: No, I said I didn't make any inquiry. Stop calling me.\nAgent: Sir, if you could just-\nCustomer: I'm going to report this number. Stop calling.\n[Call disconnected]",
+    "duration_seconds": 45,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL008",
+    "lead_id": "LEAD025",
+    "transcript": "Agent: Good evening, Dr. Mehta. This is Kartik from Green Valley Estates. Am I catching you at a good time?\nCustomer: Yes, I just finished my clinic hours. You're calling about the farmhouse?\nAgent: Exactly, sir. Following up on our conversation about the 1-acre farmhouse property in Chattarpur.\nCustomer: Yes, my wife and I are very interested. We visited last weekend and loved the location.\nAgent: Wonderful to hear! I noticed you spent considerable time in the garden area. Your wife seemed quite excited about the organic farming potential.\nCustomer: She's already planning her vegetable garden! But we have some concerns about the legal status.\nAgent: Completely valid concern, sir. I've prepared a comprehensive legal due diligence file for you. The property has clear title going back 50 years, all conversion from agricultural to farmhouse zone is completed, and I'll arrange a meeting with our legal head if you'd like.\nCustomer: That would be helpful. Also, what about construction permissions if we want to expand the guest house?\nAgent: The FAR allows for an additional 500 sqft construction. I can provide the approved building plan that shows the expansion possibilities.\nCustomer: Perfect. One more thing - the price. 1.8 crores is a bit stretched for us. Any flexibility?\nAgent: Sir, I understand. Let me propose something - if you can close within 30 days, I can request a special approval for 1.72 crores, plus we'll include the furniture that's currently there worth approximately 6 lakhs.\nCustomer: That's a fair offer. Let me discuss with my wife tonight and we'll finalize tomorrow.\nAgent: Take your time, sir. I'll also email you the legal documents tonight so you can review them. And if you have any questions, I'm available even on weekends.",
+    "duration_seconds": 356,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL009",
+    "lead_id": "LEAD040",
+    "transcript": "Agent: Hi, calling about the 2BHK enquiry in Hyderabad.\nCustomer: Yes, but I've reduced my budget actually. I was looking at 60 lakhs before, now I can only afford 40 lakhs.\nAgent: 40 lakhs? That's a significant reduction, sir.\nCustomer: I know, some personal financial issues came up.\nAgent: Sir, frankly at 40 lakhs, we only have flats in the outskirts, far from IT hubs.\nCustomer: That won't work. I need something close to Hitec City.\nAgent: Then you'll need to increase budget to at least 55 lakhs.\nCustomer: I can't right now.\nAgent: Then I suggest you wait 6 months and come back when your situation improves.\nCustomer: Okay... I guess I'll do that.\nAgent: Best of luck. Call us when ready.",
+    "duration_seconds": 124,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL010",
+    "lead_id": "LEAD033",
+    "transcript": "Agent: Good afternoon, I'm calling from Luxe Residences. Is this Mr. Malhotra's manager?\nCustomer: Yes, I handle Mr. Malhotra's personal affairs. He mentioned he's interested in a penthouse.\nAgent: Correct, sir. We have an exclusive listing at The Imperial that we thought would suit Mr. Malhotra's requirements. It's 8000 sqft with a private elevator and rooftop pool.\nCustomer: He would require complete privacy and confidentiality throughout the process.\nAgent: Absolutely understood. We can arrange private viewings outside regular hours, and all documentation can go through you. No photographs or details will be shared anywhere.\nCustomer: Good. What's the price point?\nAgent: It's 45 crores, negotiable for a serious buyer. We can also customize certain elements before handover.\nCustomer: That's within range. He'll want to view it this week. Can you arrange for Thursday evening after 8 PM?\nAgent: Consider it done. The building management will be briefed about the VIP visit. Shall I arrange secure parking as well?\nCustomer: Yes, preferably basement parking with direct elevator access.\nAgent: Noted. I'll send you the confirmation on your official email. We look forward to hosting Mr. Malhotra.",
+    "duration_seconds": 234,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL011",
+    "lead_id": "LEAD042",
+    "transcript": "Agent: Hello, calling about the flat inquiry.\nCustomer: Oh yes, I had inquired but I'm actually not looking right now.\nAgent: May I know why, sir? We have some great offers running.\nCustomer: I was just window shopping. Not planning to buy for another 2-3 years.\nAgent: Sir, 2-3 years is a long time. Prices will definitely increase by then.\nCustomer: I understand, but I'm not in a position to buy now.\nAgent: What's stopping you? Budget? We have easy EMI options.\nCustomer: It's not about EMI. I just started my job. Let me save for a few years.\nAgent: Sir, you should start the loan process early. Get pre-approved now.\nCustomer: I'm not interested right now. Please don't call again.\nAgent: Okay, but keep my number. You'll regret not buying now.\nCustomer: Sure. Bye.",
+    "duration_seconds": 112,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL012",
+    "lead_id": "LEAD049",
+    "transcript": "Agent: Good morning, I'm calling on behalf of Diplomatic Enclave Properties. This is regarding the inquiry for a residence for the embassy.\nCustomer: Yes, I'm the administrative attaché. We need a property for our ambassador.\nAgent: Understood, sir. We have a stunning duplex penthouse in Vasant Vihar, 7500 sqft, with 24-hour security, separate staff quarters, and entertainment areas suitable for diplomatic functions.\nCustomer: Security is paramount. What's the building's security infrastructure?\nAgent: The building has 3-tier security - perimeter, lobby, and floor-level access control. Private elevator for penthouses. We also have dedicated CCTV with local storage and backup. The neighborhood itself has heavy police presence.\nCustomer: What about modification permissions? We may need to install additional security equipment.\nAgent: The owners are open to reasonable security modifications. We've housed diplomatic personnel before and understand the requirements.\nCustomer: Good. And the payment process?\nAgent: We can work with your embassy's finance department. Wire transfers, quarterly payments - whatever suits your protocols.\nCustomer: Please send the property details to our official email. We'll arrange a security assessment visit through proper channels.\nAgent: Absolutely, sir. I'll send the brochure and our APAR compliance certificates today. We can schedule the visit at your convenience through your protocol officer.",
+    "duration_seconds": 289,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL013",
+    "lead_id": "LEAD066",
+    "transcript": "Agent: Hi, calling from Urban Nest about the 1BHK inquiry in Mumbai.\nCustomer: Yes, I'm looking for something under 30 lakhs.\nAgent: Ma'am, to be honest, 30 lakhs in Mumbai metro region is very challenging. The cheapest options would be in locations like Panvel or beyond.\nCustomer: But I've seen ads for affordable housing?\nAgent: Those are typically under construction with possession 3-4 years away, and often in areas with limited connectivity.\nAgent: May I ask what's driving your budget? Maybe I can suggest alternatives.\nCustomer: I work in Mumbai, need something with reasonable commute.\nAgent: I understand. Have you considered renting in a better location while saving for a larger budget? Or perhaps looking at Navi Mumbai - places like Kharghar or Vashi offer better value.\nCustomer: That makes sense. What's the price range in Kharghar?\nAgent: 1BHK in Kharghar would be around 45-55 lakhs in a good society. The metro connectivity to Mumbai is improving.\nCustomer: 45 lakhs is still high, but at least realistic. Could you send me some options?\nAgent: Absolutely! I'll WhatsApp you 3-4 projects in Kharghar and Vashi. Meanwhile, I suggest talking to a few banks about pre-approval - it'll give you clarity on your actual budget.\nCustomer: That's helpful advice. Thank you.\nAgent: Most welcome, ma'am. Let's find you the right home within your means.",
+    "duration_seconds": 267,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL014",
+    "lead_id": "LEAD023",
+    "transcript": "Agent: Good afternoon, Mr. Srinivasan. This is Deepak from Commercial Space Chennai. How are you today?\nCustomer: I'm well, Deepak. You're calling about the showroom space?\nAgent: Yes sir. We have a 3000 sqft ground floor space on Anna Salai with 40 feet frontage - perfect for a showroom.\nCustomer: Tell me about the foot traffic and parking.\nAgent: Sir, this is prime Anna Salai near Spencer Plaza. Daily pedestrian traffic is in thousands. We have 15 dedicated parking spots plus additional street parking. The adjacent building has a multi-level parking as well.\nCustomer: What's the per sqft rate?\nAgent: It's Rs. 150 per sqft per month, so approximately 4.5 lakhs monthly. For a 5-year lock-in, we can negotiate to 135.\nCustomer: That's steep. I was expecting 100 per sqft.\nAgent: Sir, for this location and frontage, 135 is actually competitive. But tell you what - if you're ready to sign within this week and pay 6 months advance, I can get management approval for 125.\nCustomer: 125 is acceptable. What about fit-out period?\nAgent: 90 days rent-free for fit-out, starting from agreement signing.\nCustomer: Good. I'll need my architect to visit for measurements. Can you arrange access tomorrow?\nAgent: Absolutely, sir. Just send me his details and I'll coordinate. I'm optimistic about closing this, Mr. Srinivasan!\nCustomer: Let's see how the measurement visit goes. But so far, this sounds promising.",
+    "duration_seconds": 312,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL015",
+    "lead_id": "LEAD088",
+    "transcript": "Agent: Hi, calling about the 2BHK inquiry.\nCustomer: Oh, actually I've changed my mind. I'm now looking at Vijayawada instead of Hyderabad.\nAgent: Vijayawada? That's a completely different city. Why the change?\nCustomer: My company is moving there, the new capital development.\nAgent: I see. We don't operate in Vijayawada yet.\nCustomer: Okay then, can't help you.\nAgent: ...So you don't want to look at Hyderabad at all?\nCustomer: No, moving to Vijayawada for sure. Wife's family also there.\nAgent: Alright. Thanks for letting me know.\nCustomer: Sure. Bye.",
+    "duration_seconds": 78,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL016",
+    "lead_id": "LEAD043",
+    "transcript": "Agent: Hello, Mr. Reddy? This is Meera from Senior Living Spaces.\nCustomer: Yes, speaking. You're calling about the ground floor apartment?\nAgent: Exactly, sir. You mentioned you're looking for something for your elderly parents. I wanted to check how I can help.\nCustomer: Yes, my parents are in their 70s. They can't climb stairs, so ground floor is essential. Also need something with medical facilities nearby.\nAgent: I completely understand, sir. We actually specialize in senior-friendly properties. The project I have in mind is in Whitefield - ground floor 3BHK with wide doorways for wheelchair access, anti-skid flooring, and grab rails in the bathroom.\nCustomer: That sounds well-designed. What about emergency services?\nAgent: The society has a medical room with full-time nurse on call. Manipal Hospital is 2 km away - just 4 minutes. We also have a tie-up with ambulance services.\nCustomer: Impressive. My parents also need a peaceful environment. How's the noise level?\nAgent: The complex is low-rise with large green areas. No commercial activity nearby. Many residents are retired couples, so the community is quiet and mature. There's also a senior citizen activity center with yoga, games, and social events.\nCustomer: This really seems tailored for their needs. Can I bring my parents for a visit?\nAgent: Absolutely, sir. We can arrange accessible transportation if needed. Also, I can schedule the visit during our morning tea session so they can meet other residents.\nCustomer: That's a wonderful idea. Let's do Saturday morning?\nAgent: Perfect, sir. 10 AM. I'll send you the complete amenities list and a video walkthrough tonight so your parents can get a preview.",
+    "duration_seconds": 334,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL017",
+    "lead_id": "LEAD074",
+    "transcript": "Agent: Hi, calling about the flat inquiry.\nCustomer: Yes, which project?\nAgent: Our new launch in Mulund, 2BHK starting at 95 lakhs.\nCustomer: Actually, I'm comparing with some resale options. The prices are similar but resale flats are bigger.\nAgent: But sir, resale flats have old construction, maintenance issues.\nCustomer: Not necessarily. Some are only 5-7 years old, and they're ready to move in.\nAgent: New projects have better amenities, sir.\nCustomer: I visited your site. Amenities are not impressive to be honest.\nAgent: Sir, which project specifically? Maybe I can show you a better one.\nCustomer: Look, I'm still comparing. Will decide in some time.\nAgent: Sir, prices will increase. Don't wait too long.\nCustomer: Everyone says that. I'll take my time.\nAgent: Shall I call you next week?\nCustomer: No need. I'll call if interested.\nAgent: Okay sir. Keep us in mind.",
+    "duration_seconds": 145,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL018",
+    "lead_id": "LEAD061",
+    "transcript": "Agent: Mr. Jain, this is Rajesh following up on our discussion about Unit 2103 in Sector 150.\nCustomer: Yes Rajesh, I've got the booking amount ready. Just need management approval from my side.\nAgent: Wonderful news, sir! When do you expect the approval?\nCustomer: Should come through by tomorrow noon. It's just a formality since I'm using company funds for the investment.\nAgent: Understood, sir. Just to confirm - 5 lakhs booking, followed by 20% within 45 days, and the rest construction-linked?\nCustomer: Correct. Will your bank loan partner be able to process quickly? I want to minimize cash outflow.\nAgent: Absolutely. LIC Housing has pre-approved this project. They can disburse within 3 weeks of application. I'll connect you with their relationship manager right after booking.\nCustomer: Good. One more thing - I want the corner 03 series unit, not the 01 you showed earlier.\nAgent: Sir, 2103 is still available. However, corner units have 2 lakh PLC. Given your quick decision, I can try to get 50% waiver on that.\nCustomer: Get me full waiver and we have a deal.\nAgent: Let me check...[holds]... Sir, my manager has agreed for full PLC waiver as you're bringing booking same week.\nCustomer: Excellent. Send revised cost sheet. I'll transfer booking amount tomorrow afternoon after approval.\nAgent: Thank you, Mr. Jain. This is a great investment decision. Unit 2103 is yours!",
+    "duration_seconds": 276,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL019",
+    "lead_id": "LEAD012",
+    "transcript": "Agent: Hello, is this the number that enquired about studio apartments in Bangalore?\nCustomer: Uh... what? Who is this?\nAgent: I'm calling from Urban Studios, about the studio apartment.\nCustomer: I think you have wrong number. I don't know any Urban Studios.\nAgent: This is 98456XXXXX right?\nCustomer: Yes, but I didn't enquire about anything.\nAgent: We have your number from our website inquiry form.\nCustomer: I don't remember filling any form. Maybe my cousin used my number by mistake.\nAgent: Could you give me your cousin's actual number?\nCustomer: No, I don't know what you're talking about. Please don't call again.\nAgent: Ma'am, our records show-\n[Call disconnected]",
+    "duration_seconds": 67,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL020",
+    "lead_id": "LEAD031",
+    "transcript": "Agent: Vanakkam, Mr. Murugan. This is Shankar from Heritage Villas.\nCustomer: Vanakkam Shankar. Yes, I'm interested in the villa you showed last time.\nAgent: Thank you, sir. You mentioned some specific requirements - traditional Puja room and a garden. I actually found a villa that matches perfectly.\nCustomer: Tell me more.\nAgent: Sir, it's a 4500 sqft villa with a dedicated 150 sqft Puja room facing east. Large teak doors with traditional brass handles. The garden is 2000 sqft with mango and coconut trees already planted.\nCustomer: That sounds excellent! Is it Vastu compliant?\nAgent: 100% Vastu, sir. Main entrance north-east, master bedroom south-west, kitchen south-east. I can share the Vastu certificate from our certified consultant.\nCustomer: What about the construction quality? I'm from builder background, you know.\nAgent: Sir, I remember that. The structure is RCC frame with 9-inch AAC block walls. We use Asian Paints Ultima for exterior, Kajaria or Somany for flooring. I can share the complete specification sheet and you're welcome to bring your own engineer for inspection.\nCustomer: That's fair. And the price?\nAgent: This villa is 1.4 crores including registration, ready with OC.\nCustomer: If I'm paying cash in full, what flexibility?\nAgent: For full cash payment, we can offer 1.32 crores flat. No negotiations.\nCustomer: Arrange Puja muhurat for next Pongal and we can do registration.\nAgent: Sir, that's wonderful! I'll coordinate with the priest for auspicious date. This is a blessed transaction!",
+    "duration_seconds": 356,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL021",
+    "lead_id": "LEAD082",
+    "transcript": "Agent: Hello, calling regarding the apartment enquiry.\nCustomer: Yeah... I had enquired for my parents actually. I'm a student.\nAgent: Okay, so should I speak to your parents directly?\nCustomer: They're in Lucknow. I'm studying here.\nAgent: Then why did you make the enquiry from Mumbai?\nCustomer: I was just checking what's available for them.\nAgent: Sir, buying property is a serious decision. It's better if actual buyers contact us.\nCustomer: I understand. I'll give my father your number.\nAgent: Please do that. We can explain things better to them directly.\nCustomer: Okay, will pass on.\nAgent: Thank you. Goodbye.",
+    "duration_seconds": 89,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL022",
+    "lead_id": "LEAD045",
+    "transcript": "Agent: Good afternoon, Mrs. Verma. This is Ashish from Garden Villas Noida.\nCustomer: Hello Ashish. Yes, my husband and I have been discussing your villa project.\nAgent: Great to hear! I understand education proximity is important for you with three children?\nCustomer: Exactly. DPS and GD Goenka are our preferred schools. How far are they?\nAgent: Ma'am, DPS Sector 132 is literally 1.5 km - 5 minutes drive. GD Goenka is 3 km away. There's also a Pathways school within the township itself.\nCustomer: That's convenient. What about the villa specifications again?\nAgent: It's a 350 sq yard plot with 4BHK independent villa - 3600 sqft built-up. Each kid can have their own room, plus a combined study area. There's also a home theatre room for family time.\nCustomer: My husband was concerned about safety for the kids.\nAgent: Understandable, ma'am. The township has 0.4 km boundary wall, single entry-exit with security, child-safe swimming pool, and a kids-only play zone with CCTV. No outside vehicles in the residential zone.\nCustomer: And the monthly maintenance?\nAgent: Around 12,000 per month which covers security, common area maintenance, club house access, and swimming pool. It's quite reasonable for the facilities.\nCustomer: Let me discuss final time with my husband. He'll want to visit once more with his parents.\nAgent: Of course, ma'am. I'll reserve your preferred Plot C-17 for 48 hours. It has the best garden view.\nCustomer: Thank you, Ashish. We'll confirm by tomorrow evening.",
+    "duration_seconds": 345,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL023",
+    "lead_id": "LEAD098",
+    "transcript": "Agent: Hi, is this Riya the influencer?\nCustomer: Yes, who's this?\nAgent: I'm from Sea Breeze Apartments. You enquired about 2BHK with sea view?\nCustomer: Oh yes! I need a place with great views for my content. I'm an Instagram influencer with 200K followers.\nAgent: That's great! We have apartments with amazing sea views. Would be perfect for photos and videos.\nCustomer: What's the price?\nAgent: Starting at 2.5 crores for sea-facing units.\nCustomer: That's... quite high. I was thinking more like 50-60 lakhs.\nAgent: Ma'am, sea view in Mumbai doesn't come under 2 crores.\nCustomer: What about something that looks like sea view? Like a pool or something blue?\nAgent: Pool view might work. But those are also around 1.5 crores minimum.\nCustomer: Hmm, I need to think about this. Maybe I can get brand sponsorship for the apartment.\nAgent: That's... an interesting approach. Should I keep you posted on any offers?\nCustomer: Yes, if something under 80 lakhs comes with good views, let me know!\nAgent: I'll try ma'am, but expectations might need adjustment for Mumbai.\nCustomer: Okay, thanks. Bye!",
+    "duration_seconds": 178,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL024",
+    "lead_id": "LEAD055",
+    "transcript": "Agent: Good evening, Mr. Rangarajan. This is Vasanth from Ocean View Properties.\nCustomer: Vasanth, yes. You're calling about the ECR property?\nAgent: Correct, sir. The sea-facing villa in ECR - 8000 sqft with private beach access.\nCustomer: Tell me honestly, how close is it to the sea?\nAgent: Sir, the property line is exactly 50 meters from high tide mark. You'll hear waves from your bedroom. The terrace has unobstructed ocean views.\nCustomer: I'm a shipping businessman, you know. I want to see ships on the horizon.\nAgent: Sir, from the third floor terrace, you can see the Chennai Port vessel traffic on clear days. I've verified this personally.\nCustomer: What about sea erosion risk?\nAgent: Valid concern, sir. The property has a 15-foot stone seawall built in 2015 with CRZ clearance. I'll share the structural audit report. Also, this stretch hasn't seen erosion in the last 20 years as per coastal authority records.\nCustomer: Good. What's your best price?\nAgent: It's listed at 2.8 crores. For you, with your shipping background and genuine interest, owner has authorized me to offer 2.65 crores.\nCustomer: I'll offer 2.5 crores flat.\nAgent: Sir, let me speak with the owner tonight. He's emotionally attached to this property, but your profile as a shipping veteran might appeal to him.\nCustomer: Get me 2.5, and I'll wire the advance tomorrow. Cash.\nAgent: Let me try, sir. I'll call you by 10 AM tomorrow with a firm answer.",
+    "duration_seconds": 312,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL025",
+    "lead_id": "LEAD106",
+    "transcript": "Agent: Hello? Is this regarding the 1BHK inquiry?\n[Silence]\nAgent: Hello?\nCustomer: [Background noise]... haan, who is this?\nAgent: Sir, I'm calling from Housing Dreams. You enquired about 1BHK in Mumbai.\nCustomer: [Unclear audio] ...later... busy...\nAgent: Sir, should I call later?\nCustomer: [Phone shuffling] Can't talk now.\nAgent: When can I call, sir?\nCustomer: ...don't know... [Disconnected]",
+    "duration_seconds": 34,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL026",
+    "lead_id": "LEAD081",
+    "transcript": "Agent: Good afternoon, this is Sanjay from Imperial Penthouses calling for the Gupta family.\nCustomer: Yes, I'm Rohan Gupta, handling this for my father.\nAgent: Mr. Rohan, thank you for speaking with me. I understand your family is looking for a super-premium penthouse, 5000 sqft minimum?\nCustomer: Correct. My father is the chairman of Gupta Industries. We need something befitting that status.\nAgent: Absolutely, sir. I have an exclusive listing - 6200 sqft triplex penthouse in Lutyens zone. Private elevator, 360-degree terrace, imported Italian marble throughout, and smart home automation from Crestron.\nCustomer: What about entertaining space? My father hosts business dinners.\nAgent: Sir, the living-dining is 2000 sqft open plan with a Poggenpohl designer kitchen. There's also a temperature-controlled wine room and a cigar lounge with German ventilation.\nCustomer: Security provisions?\nAgent: Bombproof safe room, 48-hour backup power with silent DG, and the building has SPG-level security infrastructure. The previous owner was a cabinet minister.\nCustomer: Price?\nAgent: 55 crores, non-negotiable. But for a buyer of your stature, we include one year of butler and housekeeping service.\nCustomer: Have your documentation sent to our family office. Our lawyers will review before we proceed with viewing.\nAgent: Understood, sir. I'll courier the documents personally and arrange viewing at your convenience after legal clearance.\nCustomer: Good. This could work for us.",
+    "duration_seconds": 298,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL027",
+    "lead_id": "LEAD146",
+    "transcript": "Agent: Hello, calling about apartment enquiry.\nCustomer: Which enquiry?\nAgent: Sir, you enquired for 1BHK in Andheri.\nCustomer: Multiple times I've told, I didn't enquire anything!\nAgent: This is the number registered on our portal.\nCustomer: Then your portal is fake. I keep getting spam calls from random builders.\nAgent: Sir, we're a genuine company-\nCustomer: I don't care. I'm reporting this number to TRAI. Stop harassing me!\nAgent: Sir, we're not harassing-\n[Call disconnected]",
+    "duration_seconds": 56,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL028",
+    "lead_id": "LEAD093",
+    "transcript": "Agent: Mr. Saxena, this is Prateek. Good news - all your paperwork is in order!\nCustomer: Finally! So what's the next step?\nAgent: Sir, we just need to schedule the agreement signing. The builder's lawyer is available Thursday or Friday this week.\nAgent: Also, the bank has cleared your loan disbursement. 90% financing approved at 8.5% interest.\nCustomer: Excellent. Let's do Friday afternoon. I'll take half day from office.\nAgent: Perfect, sir. 3 PM at the builder's office in Sector 62. Please bring original ID proof, 2 passport photos, and 4 cancelled cheques.\nCustomer: Noted. And the remaining 10% I need to pay on Friday?\nAgent: Yes sir, 6.1 lakhs by demand draft in builder's name. I'll WhatsApp the exact name and bank details.\nCustomer: This has been a smooth process, Prateek. Thanks for handling everything.\nAgent: My pleasure, sir. After Friday, your flat will officially be yours! I'll also introduce you to the society WhatsApp group - your future neighbors.\nCustomer: Looking forward to it. See you Friday!\nAgent: See you, sir. Congratulations in advance!",
+    "duration_seconds": 198,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "CALL029",
+    "lead_id": "LEAD130",
+    "transcript": "Agent: Hi, calling about the 1BHK inquiry in Mumbai.\nCustomer: Yes, I'm looking for something under 25 lakhs with sea view.\nAgent: Ma'am, I need to be honest with you. That budget is not realistic for Mumbai, especially with sea view.\nCustomer: But I've seen online listings-\nAgent: Those are often fraudulent or misleading. Genuine 1BHK in Mumbai starts at 50-60 lakhs minimum, and sea view would be 2 crores plus.\nCustomer: That's ridiculous! How do people afford this?\nAgent: Ma'am, Mumbai is one of the most expensive real estate markets in Asia. Many people take 20-30 year loans, or they buy in suburbs.\nCustomer: I work in Bandra. Suburbs are too far.\nAgent: May I suggest - have you considered renting for now? You could get a nice 1BHK in Bandra for 30-40K monthly and save for a larger down payment over 5-7 years.\nCustomer: That makes more sense actually. I was being unrealistic.\nAgent: It's okay, ma'am. Many first-time buyers have similar expectations. Would you like me to connect you with our rental division instead?\nCustomer: Yes, that would be helpful. Thank you for being honest.\nAgent: Of course, ma'am. I'll have my colleague Neha call you about rental options. All the best!",
+    "duration_seconds": 223,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "CALL030",
+    "lead_id": "LEAD145",
+    "transcript": "Agent: Good morning, this is Vikrant from Sovereign Business Parks. Am I speaking with the Chief Security Officer?\nCustomer: Yes, I'm Colonel Rathore (Retd.), handling security acquisitions for the embassy group.\nAgent: Colonel sahab, thank you for your time. I understand you're looking for an ultra-secure office facility?\nCustomer: Correct. We need embassy-grade security. Multiple embassies of allied nations will operate from this facility.\nAgent: Sir, we have a standalone 45,000 sqft building in Chanakyapuri with existing embassy-ready infrastructure. Previously housed a European consulate.\nCustomer: Tell me about the security features.\nAgent: Sir - vehicle screening bay with under-vehicle inspection system, man-trap entry with full-body scanner, SCIF-rated rooms in the basement, 360-degree CCTV with 90-day storage, and hardened perimeter with anti-climb measures. The electrical and communication systems have complete redundancy.\nCustomer: Blast resistance?\nAgent: The facade is designed for blast mitigation. The ground floor and basement have reinforced concrete walls 18 inches thick. I can provide the structural consultant's certification.\nCustomer: This sounds appropriate. What's the financial ask?\nAgent: 52 crores outright purchase, or 2.5 crores monthly lease with 10-year lock-in.\nCustomer: We'd prefer purchase for sovereignty reasons. Send the structural reports, previous tenant clearance, and FCRA compliance to our secure email.\nAgent: Understood, Colonel. I'll personally deliver the hard copies if preferred - I understand sensitive documents need careful handling.\nCustomer: That would be proper. Have your CEO accompany you for the initial meeting.\nAgent: Absolutely, sir. We'll arrange at your convenience.",
+    "duration_seconds": 378,
+    "was_deal_closed": true
+  }
+]
