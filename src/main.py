@@ -1,15 +1,15 @@
-# Fixit GenAI Backend - Main Application
+
 
 import logging
 from contextlib import asynccontextmanager
-
+import uvicorn
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from src.config import get_settings
-from src.api.routes import lead_priority, call_eval
+from src.api.routes import lead_priority
 
-# Configure logging
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
@@ -22,11 +22,13 @@ async def lifespan(app: FastAPI):
     """Application lifespan manager."""
     settings = get_settings()
     logger.info(f"Starting {settings.app_name} v{settings.app_version}")
+    logger.info(f"LLM Model: {settings.ollama_model}")
+    logger.info(f"Ollama URL: {settings.ollama_base_url}")
     yield
     logger.info("Shutting down application")
 
 
-# Initialize FastAPI app
+
 settings = get_settings()
 app = FastAPI(
     title=settings.app_name,
@@ -36,7 +38,7 @@ app = FastAPI(
     redoc_url="/redoc"
 )
 
-# Add CORS middleware
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -44,6 +46,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+app.include_router(lead_priority.router)
 
 
 
@@ -54,14 +59,25 @@ async def root():
         "service": settings.app_name,
         "version": settings.app_version,
         "docs": "/docs",
-    
+        "endpoints": {
+            "lead_priority": "/api/v1/lead-priority",
+       
+        }
     }
 
 
+@app.get("/health")
+async def health_check():
+    """Global health check endpoint."""
+    return {
+        "status": "healthy",
+        "service": settings.app_name,
+        "version": settings.app_version
+    }
 
 
 if __name__ == "__main__":
-    import uvicorn
+    
     uvicorn.run(
         "src.main:app",
         host="0.0.0.0",

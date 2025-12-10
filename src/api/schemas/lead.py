@@ -1,4 +1,4 @@
-# Lead Pydantic Schemas
+
 
 from typing import Optional, List, Literal
 from pydantic import BaseModel, Field

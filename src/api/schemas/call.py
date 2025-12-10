@@ -1,4 +1,4 @@
-# Call Pydantic Schemas
+
 
 from typing import Optional, List, Literal
 from pydantic import BaseModel, Field
@@ -41,6 +41,6 @@ class CallEvalResponse(BaseModel):
     next_actions: List[str] = Field(..., description="Recommended next actions")
     model_metadata: ModelMetadata = Field(..., description="Model metadata")
     
-    # Additional fields for analysis
+    
     is_good_call: bool = Field(..., description="Whether the call is classified as good")
     key_points: List[str] = Field(default_factory=list, description="Key points from the conversation")
